@@ -1,0 +1,6 @@
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjercicioPost\bin\Debug\EjercicioPost.exe.config
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjercicioPost\bin\Debug\EjercicioPost.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjercicioPost\bin\Debug\EjercicioPost.pdb
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjercicioPost\obj\Debug\EjercicioPost.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjercicioPost\obj\Debug\EjercicioPost.pdb
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjercicioPost\obj\Debug\EjercicioClasesPost.csprojAssemblyReference.cache

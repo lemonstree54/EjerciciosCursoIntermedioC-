@@ -1,0 +1,6 @@
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjerciciosHerencia\bin\Debug\EjerciciosHerencia.exe.config
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjerciciosHerencia\bin\Debug\EjerciciosHerencia.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjerciciosHerencia\bin\Debug\EjerciciosHerencia.pdb
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjerciciosHerencia\obj\Debug\EjerciciosHerencia.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjerciciosHerencia\obj\Debug\EjerciciosHerencia.pdb
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjerciciosHerencia\obj\Debug\EjerciciosHerencia.csprojAssemblyReference.cache

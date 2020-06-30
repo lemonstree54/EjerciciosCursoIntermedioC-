@@ -1,0 +1,6 @@
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjerciciosPolimorfismo\bin\Debug\EjerciciosPolimorfismo.exe.config
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjerciciosPolimorfismo\bin\Debug\EjerciciosPolimorfismo.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjerciciosPolimorfismo\bin\Debug\EjerciciosPolimorfismo.pdb
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjerciciosPolimorfismo\obj\Debug\EjerciciosPolimorfismo.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjerciciosPolimorfismo\obj\Debug\EjerciciosPolimorfismo.pdb
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjerciciosPolimorfismo\obj\Debug\EjerciciosPolimorfismo.csprojAssemblyReference.cache

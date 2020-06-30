@@ -1,0 +1,5 @@
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\PropiedadesCrear\bin\Debug\PropiedadesCrear.exe.config
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\PropiedadesCrear\bin\Debug\PropiedadesCrear.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\PropiedadesCrear\bin\Debug\PropiedadesCrear.pdb
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\PropiedadesCrear\obj\Debug\PropiedadesCrear.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\PropiedadesCrear\obj\Debug\PropiedadesCrear.pdb

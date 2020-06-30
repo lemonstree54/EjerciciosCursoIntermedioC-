@@ -1,0 +1,6 @@
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\PruebaPropiedades\bin\Debug\PruebaPropiedades.exe.config
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\PruebaPropiedades\bin\Debug\PruebaPropiedades.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\PruebaPropiedades\bin\Debug\PruebaPropiedades.pdb
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\PruebaPropiedades\obj\Debug\PruebaPropiedades.csprojAssemblyReference.cache
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\PruebaPropiedades\obj\Debug\PruebaPropiedades.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\PruebaPropiedades\obj\Debug\PruebaPropiedades.pdb

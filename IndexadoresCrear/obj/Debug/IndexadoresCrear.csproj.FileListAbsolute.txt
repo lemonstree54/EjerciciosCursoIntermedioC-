@@ -1,0 +1,6 @@
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\IndexadoresCrear\bin\Debug\IndexadoresCrear.exe.config
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\IndexadoresCrear\bin\Debug\IndexadoresCrear.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\IndexadoresCrear\bin\Debug\IndexadoresCrear.pdb
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\IndexadoresCrear\obj\Debug\IndexadoresCrear.csprojAssemblyReference.cache
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\IndexadoresCrear\obj\Debug\IndexadoresCrear.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\IndexadoresCrear\obj\Debug\IndexadoresCrear.pdb

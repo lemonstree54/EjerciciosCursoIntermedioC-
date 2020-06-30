@@ -1,0 +1,5 @@
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\PruebaLeo\bin\Debug\PruebaLeo.exe.config
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\PruebaLeo\bin\Debug\PruebaLeo.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\PruebaLeo\bin\Debug\PruebaLeo.pdb
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\PruebaLeo\obj\Debug\PruebaLeo.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\PruebaLeo\obj\Debug\PruebaLeo.pdb

@@ -1,0 +1,6 @@
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjercicioDBConnection\bin\Debug\EjercicioDBConnection.exe.config
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjercicioDBConnection\bin\Debug\EjercicioDBConnection.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjercicioDBConnection\bin\Debug\EjercicioDBConnection.pdb
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjercicioDBConnection\obj\Debug\EjercicioDBConnection.csprojAssemblyReference.cache
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjercicioDBConnection\obj\Debug\EjercicioDBConnection.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjercicioDBConnection\obj\Debug\EjercicioDBConnection.pdb

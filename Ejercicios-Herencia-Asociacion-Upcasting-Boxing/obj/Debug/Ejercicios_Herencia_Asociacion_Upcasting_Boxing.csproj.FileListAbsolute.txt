@@ -1,0 +1,6 @@
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\Ejercicios-Herencia-Asociacion-Upcasting-Boxing\bin\Debug\Ejercicios-Herencia-Asociacion-Upcasting-Boxing.exe.config
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\Ejercicios-Herencia-Asociacion-Upcasting-Boxing\bin\Debug\Ejercicios-Herencia-Asociacion-Upcasting-Boxing.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\Ejercicios-Herencia-Asociacion-Upcasting-Boxing\bin\Debug\Ejercicios-Herencia-Asociacion-Upcasting-Boxing.pdb
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\Ejercicios-Herencia-Asociacion-Upcasting-Boxing\obj\Debug\Ejercicios_Herencia_Asociacion_Upcasting_Boxing.csprojAssemblyReference.cache
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\Ejercicios-Herencia-Asociacion-Upcasting-Boxing\obj\Debug\Ejercicios-Herencia-Asociacion-Upcasting-Boxing.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\Ejercicios-Herencia-Asociacion-Upcasting-Boxing\obj\Debug\Ejercicios-Herencia-Asociacion-Upcasting-Boxing.pdb

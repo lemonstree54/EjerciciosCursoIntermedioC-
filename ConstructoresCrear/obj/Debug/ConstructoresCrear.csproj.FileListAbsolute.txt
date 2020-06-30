@@ -1,0 +1,6 @@
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\ConstructoresCrear\bin\Debug\ConstructoresCrear.exe.config
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\ConstructoresCrear\bin\Debug\ConstructoresCrear.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\ConstructoresCrear\bin\Debug\ConstructoresCrear.pdb
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\ConstructoresCrear\obj\Debug\ConstructoresCrear.csprojAssemblyReference.cache
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\ConstructoresCrear\obj\Debug\ConstructoresCrear.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\ConstructoresCrear\obj\Debug\ConstructoresCrear.pdb

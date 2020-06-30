@@ -1,0 +1,7 @@
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjerciciosClases\bin\Debug\EjerciciosClases.exe.config
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjerciciosClases\bin\Debug\EjerciciosClases.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjerciciosClases\bin\Debug\EjerciciosClases.pdb
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjerciciosClases\obj\Debug\EjerciciosClases.csprojAssemblyReference.cache
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjerciciosClases\obj\Debug\EjerciciosClases.csproj.CoreCompileInputs.cache
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjerciciosClases\obj\Debug\EjerciciosClases.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjerciciosClases\obj\Debug\EjerciciosClases.pdb

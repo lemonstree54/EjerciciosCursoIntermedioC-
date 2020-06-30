@@ -1,0 +1,6 @@
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjercicioClasesCronometroII\bin\Debug\EjercicioClasesCronometroII.exe.config
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjercicioClasesCronometroII\bin\Debug\EjercicioClasesCronometroII.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjercicioClasesCronometroII\bin\Debug\EjercicioClasesCronometroII.pdb
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjercicioClasesCronometroII\obj\Debug\EjercicioClasesCronometroII.csprojAssemblyReference.cache
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjercicioClasesCronometroII\obj\Debug\EjercicioClasesCronometroII.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjercicioClasesCronometroII\obj\Debug\EjercicioClasesCronometroII.pdb

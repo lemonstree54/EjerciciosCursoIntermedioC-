@@ -1,0 +1,6 @@
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjerciciosModificadoresAcceso\obj\Debug\EjerciciosModificadoresAcceso.csprojAssemblyReference.cache
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjerciciosModificadoresAcceso\bin\Debug\EjerciciosModificadoresAcceso.exe.config
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjerciciosModificadoresAcceso\bin\Debug\EjerciciosModificadoresAcceso.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjerciciosModificadoresAcceso\bin\Debug\EjerciciosModificadoresAcceso.pdb
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjerciciosModificadoresAcceso\obj\Debug\EjerciciosModificadoresAcceso.exe
+C:\Users\lemon\2 ARCHIVOS LEO\Programacion\CursoIntermedioCSharp_UdemyMayo2018\EjerciciosModificadoresAcceso\obj\Debug\EjerciciosModificadoresAcceso.pdb
